@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+
+h4{
+    color: whitesmoke;
+}
+
+p{
+    color:whitesmoke;
+    margin-left: 10px;
+}
+
+hr{
+    color: whitesmoke;
+}
+
+h3{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px 0px;
+}
